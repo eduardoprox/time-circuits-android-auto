@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- "88" em sete segmentos, na cor da linha DESTINATION TIME. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#F2661B"
+        android:pathData="M33 36h16v4h-16z M33 52h16v4h-16z M33 68h16v4h-16z M30 39h4v14h-4z M48 39h4v14h-4z M30 55h4v14h-4z M48 55h4v14h-4z" />
+    <path
+        android:fillColor="#F2661B"
+        android:pathData="M59 36h16v4h-16z M59 52h16v4h-16z M59 68h16v4h-16z M56 39h4v14h-4z M74 39h4v14h-4z M56 55h4v14h-4z M74 55h4v14h-4z" />
+</vector>
